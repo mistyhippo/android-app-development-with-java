@@ -24,7 +24,8 @@ public class MainActivity extends AppCompatActivity {
 
        final ImageView rightDice = (ImageView) findViewById(R.id.image_rightDice);
 
-        final int[] diceArray = {R.drawable.dice1,
+        final int[] diceArray = {
+                R.drawable.dice1,
                 R.drawable.dice2,
                 R.drawable.dice3,
                 R.drawable.dice4,
